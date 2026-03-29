@@ -1,7 +1,7 @@
 # 💫 About Me:
 A passionate computer enthusiast from Turkey.<br>
 
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C and Rust language
 - 👨‍💻 All of my projects are available at https://github.com/YigitRobotics
 - 💬 Ask me about Python, Arduino, ESP32
 - ⚡ Fun fact Probably I'm a developer 😁
