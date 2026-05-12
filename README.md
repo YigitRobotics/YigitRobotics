@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00b4d8&height=200&section=header&text=yigitrobotics&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Low-Level%20Developer%20%7C%20Kernel%20%26%20Embedded%20Enthusiast&descAlignY=58&descColor=00ff88&animation=fadeIn" width="100%"/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=C+%7C+Embedded+%7C+Kernel+Development;Aktif+%C3%96%C4%9Freniyorum+%E2%9A%99%EF%B8%8F;Python+E%C4%9Fitimi+Veriyorum+%F0%9F%90%8D+(Free)" alt="Typing SVG" />
@@ -188,7 +185,5 @@ Developer me = {
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:00ff88,100:0d1117&height=120&section=footer&text=Keep%20it%20low-level&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<sub>⚡ Her commit bir öğrenme. Her bug bir ders. Her register bir keşif. ⚡</sub>
 
 </div>
